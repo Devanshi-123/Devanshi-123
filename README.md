@@ -8,5 +8,5 @@ I am a third-year undergrad at the NIT PATNA computer science department. 2-star
 - 👯 I’m looking to collaborate on ReactJS
 - 🤔 I’m looking for help with Azure
 - 💬 Ask me about anything
-- 📫 How to reach me: [Email](devanshi0608@gmail.com) [LinkedIn](https://www.linkedin.com/in/devanshi-goel-81b252195/) 
+- 📫 How to reach me: [Email](devanshi0608@gmail.com) [LinkedIn](https://www.linkedin.com/in/devanshi-goel-81b252195/) [Portfolio](https://devanshi-123.github.io/personal_portfolio/#/)
 - 😄 Pronouns: She/Her
