@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=Devanshi-123)
+
 
 I am a third-year undergrad at the NIT PATNA computer science department. 2-star coder at Codechef, quick learner, full stack web developer, and a machine learning enthusiast.... like learning new skills and them helping others learn them
 
